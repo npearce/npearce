@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is where I keep personal projects. However, my work on Infrastructure as Code can be found in my [REDtalks.live](https://REDtalks.live) GitHub account, which you can find here:
+https://github.com/REDtalks
+
 <!--
 **npearce/npearce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
